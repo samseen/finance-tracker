@@ -1,1 +1,1 @@
-Finance tracker application. Following Mashrur Hossain's Udemy tutorial.
+Finance tracker application. Following Mashrur Hossain's Udemy tutorial. This is the finance tracker app from the Complete Ruby on Rails Developer course.
